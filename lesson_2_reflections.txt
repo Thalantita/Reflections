@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git starts to treat the directory as a repository and tracks it. You need to do it for git to start tracking the progress in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It is different in the way that it is temporary and works between the directory and repository. The value it offers is that it will be able to split your work done into different commits to track them easier.
