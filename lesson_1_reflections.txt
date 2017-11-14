@@ -1,0 +1,29 @@
+Viewing 2 different files over cmd was a totally new concept for me.
+I've compared countless files till today with np++ compare tool or even manually and this was by far the best way.
+This will sure be my go-to way when comparing files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It makes comparing easier, you can see what changed easily.
+In the case of making a change that makes the code fail to run, you can check for errors in a more time efficient way.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Automatic version control would definitely be a good way to track history, but it might result in too much clutter or unusable code.
+Manual commit is much better logically since you are in charge of when to commit, but it might result in too big or too small commits if not judged correctly.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+They are for seperate aims. A single file commit might be enough sometimes but in situations where multiple files are changed you need multiple files to be commited.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log lists all the commits and git diff compares the content of the committed file and the previous file so you can see what have changed
+
+How might using version control make you more confident to make changes that could break something?
+
+Since returning to an older version is really easy, I would be much less hesistant in making a change that could cause a malfunction since I could easily return back to the working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git for applying version control on my projects, track their progress, check their history, and be able to easily rewind to an old state shall something wrong happens.
